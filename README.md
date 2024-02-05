@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Ingle</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img aligh="right" alt="coding" width="400" src="https://i.pinimg.com/originals/59/0e/10/590e1099ee777de3f55e5c941d940921.gif">
 
