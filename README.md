@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Ingle</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img aligh="center" alt="coding" width="400" src="https://i.pinimg.com/originals/59/0e/10/590e1099ee777de3f55e5c941d940921.gif">
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/59/0e/10/590e1099ee777de3f55e5c941d940921.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashingle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashingle" /> </p>
 
