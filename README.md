@@ -1,115 +1,69 @@
-<h1 align="center">Hi 👋, I'm Shreyash Ingle</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreyash+Ingle;ML+%26+Full-Stack+Developer;3x+Hackathon+Winner;Open-Source+Enthusiast" alt="Typing Intro" />
+</h1>
+
+<h3 align="center">Building Scalable Solutions with AI/ML & Web</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/59/0e/10/590e1099ee777de3f55e5c941d940921.gif" alt="coding" width="400">
+  <img src="https://github.com/shreyashingle/shreyashingle/assets/90236635/7c1a4b8a-1b1b-4a0f-9c7e-1e3e5f3e3f3e" alt="AI meets Code" width="600"/>
 </p>
 
+---
+
+### 🏆 **Achievements**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyashingle&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyashingle" alt="Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/1st_Place-DesignHive_2025-brightgreen?style=for-the-badge&logo=starship" alt="1st Place" />
+  <img src="https://img.shields.io/badge/2nd_Place-Project_Expo_2025-blue?style=for-the-badge&logo=codechef" alt="2nd Place" />
+  <img src="https://img.shields.io/badge/Finalist-RokConnect_2025-orange?style=for-the-badge&logo=rockwell-automation" alt="Finalist" />
+  <img src="https://img.shields.io/badge/Acquired-Yeild_Vision_by_Rotten_Grapes-success?style=for-the-badge&logo=verizon" alt="Acquired" />
 </p>
 
+---
+
+### 🚀 **Featured Projects**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[SAR-NDVI Analyzer](https://github.com/shreyashingle/sar-ndvi)** | ML-powered agricultural insights using satellite imagery | Python, TensorFlow, React, Node.js |
+| **[AGV Scheduler](https://github.com/shreyashingle/agv-scheduler)** | Ant Colony Optimization for logistics automation | C++, Graph Theory, ACO |
+| **[git-bro CLI](https://www.npmjs.com/package/git-bro)** | Scaffold GitHub projects & analyze repos | Node.js, Commander.js, GitHub API |
+
+---
+
+### 🛠️ **Tech Stack**
 <p align="center">
-  👨‍💻 All of my projects are available at <a href="https://linktr.ee/shreyashingle">LinkTree</a> <br />
-  📫 How to reach me: <a href="mailto:shreyashingle2004@gmail.com">shreyashingle2004@gmail.com</a> <br />
-  📄 Know about my experiences: <a href="https://linktr.ee/shreyashingle">LinkTree</a>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,git,django,unity,figma&perline=8" alt="Tech Stack" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+---
+
+### 📊 **GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyashingle&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashingle&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashingle&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyashingle&theme=radical&no-frame=true&margin-w=15&column=4" width="48%" />
+</p>
+
+---
+
+### 🌐 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/shreyashingle" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/shreyashingle_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+  <a href="mailto:shreyashingle2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.codechef.com/users/shreyashingle" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30" />
+  <a href="https://linktr.ee/shreyashingle">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-for-the-badge&logo=linktree&logoColor=white" alt="LinkTree" />
   </a>
-  <a href="https://www.hackerrank.com/@shreyashingle201" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="30" />
-  </a>
-  <a href="https://www.leetcode.com/shreyashingle_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
+  <a href="https://leetcode.com/shreyashingle_">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  </a>
-</p>
+---
 
-<h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashingle&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyashingle&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashingle&" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
 </p>
