@@ -1,19 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=550&lines=Hey+%F0%9F%91%8B%2C+I'm+Shreyash+Ingle;ML+%26+Full-Stack+Maestro;3x+Hackathon+Champion;Open-Source+Contributor;AI+Enthusiast;Blockchain+Explorer" alt="Dynamic Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Shreyash+Ingle;ML+%26+Full-Stack+Maestro;3x+Hackathon+Champion;Open-Source+Contributor" alt="Dynamic Typing Intro" />
 </h1>
 
-<h3 align="center">⚡ Turning Coffee into Code Since 2020 ⚡</h3>
+<h3 align="center">Turning Coffee into Code Since 2020</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyashingle/shreyashingle/main/assets/code-banner.gif" alt="AI Coding" width="700" />
+  <img src="https://raw.githubusercontent.com/shreyashingle/shreyashingle/main/assets/code-banner.gif" alt="AI Coding" width="600" />
 </p>
-
----
-
-### 🏆 **Achievement Unlocked**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyashingle&theme=onedark&no-frame=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</div>
 
 ---
 
@@ -23,66 +16,41 @@
   <img src="https://img.shields.io/badge/2nd_Place-Project_Expo_2025-884DFF?style=for-the-badge&logo=codechef" />
   <img src="https://img.shields.io/badge/Finalist-RokConnect_2025-FF6D00?style=for-the-badge&logo=rockwell" />
   <img src="https://img.shields.io/badge/Acquired-Yield_Vision-00AA55?style=for-the-badge&logo=verizon" />
-  <img src="https://img.shields.io/badge/100k+-Lines_of_Code-FF1493?style=for-the-badge&logo=codesandbox" />
 </p>
 
 ---
 
 ### 🛠️ **Tech Arsenal**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,cpp,java,js,ts,react,next,nodejs,express,mongodb,postgres,git,django,unity,figma,aws,gcp,azure,firebase,flutter,docker,kubernetes,grafana,prometheus,rust,solidity&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp,java,js,ts,react,next,nodejs,express,mongodb,postgres,git,django,unity,figma,aws,gcp&perline=9" />
 </p>
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📈 **GitHub Mastery**
 <div align="center">
-  
-  <!-- Main Stats -->
   <a href="https://github.com/shreyashingle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashingle&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=My+GitHub+Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashingle&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=compiler-design" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashingle&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashingle&theme=radical&hide_border=true" />
   </a>
-  
-  <!-- Streak Stats - Made more visible -->
-  <div>
-    <img height="180em" src="https://streak-stats.demolab.com?user=shreyashingle&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
-  </div>
-  
-  <!-- Wakatime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shreyashingle&theme=radical&hide_border=true&layout=compact&custom_title=Weekly+Development+Breakdown" height="180em" />
 </div>
 
----
-
-### 🚀 **Featured Projects**
 <div align="center">
-  <a href="https://github.com/shreyashingle/AI-Healthcare-Assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashingle&repo=AI-Healthcare-Assistant&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/shreyashingle/Blockchain-SupplyChain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashingle&repo=Blockchain-SupplyChain&theme=radical&show_owner=true" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashingle&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=shreyashingle&theme=radical&no-frame=true&margin-w=15&column=4" />
 </div>
 
 ---
 
-### 🔥 **Contribution Heatmap**
+### 🔥 **Recent Activity**
 <!-- GitHub Readme Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashingle&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph&radius=16&point=FF00FF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashingle&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph" width="90%" />
 </p>
 
 ---
 
-### 🎵 **Coding Vibes**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kz6q3m7kq4f5e5q3m7kq4f5e5&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="50%" />
-</p>
-
----
-
-### 🤝 **Let's Collaborate**
+### 🤝 **Let's Connect**
 <p align="center">
   <a href="https://linkedin.com/in/shreyashingle">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,20 +64,10 @@
   <a href="https://leetcode.com/shreyashingle_">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://dev.to/shreyashingle">
-    <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎮 **Fun Fact**
-<p align="center">
-  <img src="https://github.com/shreyashingle/shreyashingle/blob/main/assets/snake.svg" alt="Snake Game" width="500" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontSize=20&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </p>
