@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Shreyash+Ingle;ML+%26+Full-Stack+Maestro;3x+Hackathon+Champion;Open-Source+Contributor;AI+Enthusiast;Blockchain+Explorer;Innovation+Catalyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Shreyash+Ingle;ML+%26+Full-Stack+Maestro;3x+Hackathon+Champion;Open-Source+Contributor;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 
@@ -124,27 +124,6 @@
 
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" /> </p>
 
-## 🎨 **Featured Projects Showcase**
-
-<div align="center">
-  <a href="https://github.com/shreyashingle/AI-Healthcare-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashingle&repo=AI-Healthcare-Assistant&theme=tokyonight&show_owner=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/shreyashingle/Blockchain-SupplyChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashingle&repo=Blockchain-SupplyChain&theme=tokyonight&show_owner=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>🔥 More Amazing Projects</h3>
-  <p>
-    <a href="https://github.com/shreyashingle?tab=repositories">
-      <img src="https://img.shields.io/badge/View%20All%20Projects-00FF41?style=for-the-badge&logo=github&logoColor=black" />
-    </a>
-  </p>
-</div>
-
-<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" /> </p>
 
 ## 📊 **Activity & Contribution Insights**
 
