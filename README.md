@@ -11,26 +11,23 @@
 ---
 
 ### 🌟 **Highlights**
-
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/1st_Place-DesignHive_2025-00D8FF?style=for-the-badge&logo=starship&logoColor=black" />
   <img src="https://img.shields.io/badge/2nd_Place-Project_Expo_2025-884DFF?style=for-the-badge&logo=codechef" />
   <img src="https://img.shields.io/badge/Finalist-RokConnect_2025-FF6D00?style=for-the-badge&logo=rockwell" />
   <img src="https://img.shields.io/badge/Acquired-Yield_Vision-00AA55?style=for-the-badge&logo=verizon" />
-</div>
+</p>
 
 ---
 
 ### 🛠️ **Tech Arsenal**
-
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp,java,js,ts,react,next,nodejs,express,mongodb,postgres,git,django,unity,figma,aws,gcp&perline=9" />
-</div>
+</p>
 
 ---
 
 ### 📈 **GitHub Mastery**
-
 <div align="center">
   <a href="https://github.com/shreyashingle">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashingle&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
@@ -46,16 +43,15 @@
 ---
 
 ### 🔥 **Recent Activity**
-
-<div align="center">
+<!-- GitHub Readme Activity Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashingle&theme=react-dark&hide_border=true&area=true&custom_title=My+Contribution+Graph" width="90%" />
-</div>
+</p>
 
 ---
 
 ### 🤝 **Let's Connect**
-
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/shreyashingle">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -68,10 +64,10 @@
   <a href="https://leetcode.com/shreyashingle_">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-</div>
+</p>
