@@ -60,9 +60,10 @@
 
 </br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyashingle&theme=onestar&no-frame=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
+-->
 
 <p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" /> </p>
 
@@ -81,6 +82,26 @@
     <tr>
       <td colspan="2" align="center">
         <img src="https://streak-stats.demolab.com?user=shreyashingle&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&background=0D1117" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="section-divider" /> </p>
+
+### 📈 **Additional Dynamic Stats**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="180" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="180" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyashdhas0604&theme=react&hide_border=true&cache_seconds=1800" height="180" />
       </td>
     </tr>
   </table>
